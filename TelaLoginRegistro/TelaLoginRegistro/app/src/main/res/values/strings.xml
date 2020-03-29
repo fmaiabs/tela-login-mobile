@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">TelaLoginRegistro</string>
+    <string name="Log_in">LOGIN</string>
+    <string name="Register">REGISTRAR</string>
+    <string name="Email">Digite seu e-mail</string>
+    <string name="Password">Digite sua senha</string>
+    <string name="enter_app">EXIBIRÁ AS INFORMAÇÔES DO APP</string>
+    <string name="nomeCompleto">Digite seu nome completo</string>
+    <string name="tel">Digite seu número de telefone</string>
+    <string name="disicplina">Digite o nome da disciplina</string>
+    <string name="codigoDisciplina">Digite o código da disciplina</string>
+    <string name="alterar">ALTERAR</string>
+    <string name="sexoMasculino">Masculino</string>
+    <string name="sexoFeminino">Feminino</string>
+    <string name="sexo">SEXO:</string>
+    <string name="tituloRegistro">Tela de Registro</string>
+    <string name="tituloTelaPosLogin">Tela Após Logar</string>
+
+</resources>
